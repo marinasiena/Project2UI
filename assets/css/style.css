@@ -10,12 +10,6 @@ body {
   text-align: center;
 }
 
-#pleasework > .panel-heading {
-    background-image: none;
-    background-color: red;
-    color: white;
-
-}
 a {
   color: bisque;
 /*  text-decoration: none;*/}
@@ -47,11 +41,23 @@ header {
   font-size: 12px
 }
 
+#lyricoption2 {
+  font-family: sans-serif;
+  font-size: 12px
+}
+
+#lyricoption3 {
+  font-family: sans-serif;
+  font-size: 12px
+}
+
 #aboutbg {
   max-width: 900px;
   max-height: 700px;
 }
-
+.marina-button {
+  float: left;
+}
 .abouttext {
   font-family: sans-serif;
   position: absolute;
@@ -59,6 +65,8 @@ header {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+row.row-eq-height > .col-xs-4
 
 h1 {
   font-family: sans-serif;

@@ -25,3 +25,5 @@ $(document).ready(function(){
     $("#about-page").hide();
     $("#home-page").show();
   };
+
+  
